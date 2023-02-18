@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Vehicle Viewer</string>
+    <string name="templateText">Заголовок</string>
+    <string name="ground">Наземный транспорт</string>
+    <string name="water">Водный транспорт</string>
+    <string name="air">Воздушный транспорт</string>
+    <string name="electric">Электро-транспорт</string>
+
+
+    <string name="bike">Велосипед</string>
+    <string name="car">Автомобиль</string>
+    <string name="motorbike">Мотоцикл</string>
+    <string name="scooter">Самокат</string>
+
+    <string name="electricScooter">Электро-самокат</string>
+    <string name="electricCar">Электро-автомобиль</string>
+
+    <string name="boat">Катер</string>
+    <string name="waterBike">Водный мотоцикл</string>
+    <string name="lyner">Круизный лайнер</string>
+
+    <string name="airplane">Самолет</string>
+    <string name="helicopter">Вертолет</string>
+
+
+    <string name="characteristic">Характеристика</string>
+    <string name="load">Грузоподьемность</string>
+    <string name="weight">Вес</string>
+    <string name="see">Посмотреть</string>
+
+
+    <string name="loadScooter">Грузоподьемность: 120кг</string>
+    <string name="weightScooter">Вес 5кг</string>
+
+    <string name="loadMotorScooter">Грузоподьемность:200кг</string>
+    <string name="weightMotorScooter">Вес 30кг</string>
+
+    <string name="loadElectricCar"> 800кг</string>
+    <string name="weightElectricCar">Вес 800кг</string>
+
+    <string name="loadBike">Грузоподьемность:200кг</string>
+    <string name="weighBike">Вес 30кг</string>
+
+    <string name="loadCar">Грузоподьемность: 2тн</string>
+    <string name="weightCar">Вес 1тн</string>
+
+    <string name="loadAirplane">Грузоподьемность: 80тн</string>
+    <string name="weightAirplane">Вес 100тн</string>
+
+    <string name="loadHelicopter">Грузоподьемность: 1тн</string>
+    <string name="weighHelicopter">Вес 1тн</string>
+
+    <string name="loadBoat">Грузоподьемность: 1тн</string>
+    <string name="weighBoat">Вес 1тн</string>
+
+    <string name="loadWaterBike">Грузоподьемность: 300кг</string>
+    <string name="weighWaterBike">Вес 200кг</string>
+
+    <string name="loadLyner">Грузоподьемность: 100гн</string>
+    <string name="weighLyner">Вес 150тн</string>
+
+
+
+</resources>
